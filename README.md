@@ -2,7 +2,7 @@
 
 জাতীয় বেতনস্কেল, ২০২৬ (এস. আর. ও. নং ৩৪৭-আইন/২০২৬, তারিখ: ১৭ সেপ্টেম্বর ২০২৬) অনুযায়ী সরকারি কর্মচারীদের মূল বেতন নির্ধারণ, ধাপে ধাপে বাস্তবায়ন, বকেয়া (এরিয়ার) ও মোট গ্রস বেতন হিসাব করার জন্য একটি সিঙ্গেল-ফাইল, ক্লায়েন্ট-সাইড ওয়েব ক্যালকুলেটর।
 
-**লাইভ ডেমো:** [claude.ai/artifact/6jweBqVx1A6vwWFjQM5392](https://claude.ai/artifact/6jweBqVx1A6vwWFjQM5392)
+**লাইভ ডেমো:** [https://mdamranahmad.github.io/Salary-Calculator-For-PayScale-2026/](https://mdamranahmad.github.io/Salary-Calculator-For-PayScale-2026/)
 
 ## বৈশিষ্ট্য
 
